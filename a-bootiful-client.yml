@@ -1,7 +1,2 @@
-spring:
-  application:
-    name: a-bootiful-client
-# N.B. this is the default:
-  cloud:
-    config:
-      uri: http://localhost:8888
+    
+message: Hello world
