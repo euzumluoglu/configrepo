@@ -1,0 +1,9 @@
+
+server:
+  port: 8091    
+message: Hello world!!!!!!!!
+
+ribbon:
+  http:
+    client:
+      enabled: true
