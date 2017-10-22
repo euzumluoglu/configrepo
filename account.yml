@@ -1,6 +1,6 @@
 
 server:
-  port: 8091    
+  port: ${PORT:8091}    
 message: Hello world!!!!!!!!
 
 ribbon:
