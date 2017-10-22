@@ -6,5 +6,6 @@ message: Hello world!!!!!!!!
 eureka:
   instance:
     hostname: https://emn-cloud-client.herokuapp.com
+    preferIpAddress: false 
     metadataMap:
       instanceId: https://emn-cloud-client.herokuapp.com
