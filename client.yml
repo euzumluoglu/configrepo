@@ -8,4 +8,5 @@ eureka:
     hostname: emn-cloud-client.herokuapp.com
     preferIpAddress: false 
     metadataMap:
+      hostname: emn-cloud-client.herokuapp.com
       instanceId: https://emn-cloud-client.herokuapp.com
