@@ -5,6 +5,6 @@ message: Hello world!!!!!!!!
 
 eureka:
   instance:
-    hostname: ${DOMAIN_NAME}
+    hostname: https://emn-cloud-client.herokuapp.com
     metadataMap:
-      instanceId: ${DOMAIN_NAME}
+      instanceId: https://emn-cloud-client.herokuapp.com
