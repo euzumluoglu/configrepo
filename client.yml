@@ -6,3 +6,5 @@ message: Hello world!!!!!!!!
 eureka:
   instance:
     hostname: ${DOMAIN_NAME}
+    metadataMap:
+      instanceId: ${DOMAIN_NAME}
