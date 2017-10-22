@@ -6,6 +6,5 @@ message: Hello world!!!!!!!!
 eureka:
   instance:
     hostname: ${DOMAIN_NAME}
-    nonSecurePort: 80
     preferIpAddress: false 
 
