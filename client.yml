@@ -6,6 +6,7 @@ message: Hello world!!!!!!!!
 eureka:
   instance:
     hostname: emn-cloud-client.herokuapp.com
+    nonSecurePort: 80
     preferIpAddress: false 
     metadataMap:
       hostname: emn-cloud-client.herokuapp.com
